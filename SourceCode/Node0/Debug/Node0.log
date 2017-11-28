@@ -1,0 +1,5 @@
+﻿  StartNode.cpp
+c:\users\adi\documents\visual studio 2015\projects\node0\node0\rsa.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\adi\documents\visual studio 2015\projects\node0\node0\rsa.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\adi\documents\visual studio 2015\projects\node0\node0\startnode.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Node0.vcxproj -> C:\Users\Adi\Documents\Visual Studio 2015\Projects\Node0\Debug\Node0.exe
